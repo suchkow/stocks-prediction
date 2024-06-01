@@ -1,5 +1,5 @@
 <h1 align="center"> Integrating News Sentiment Analysis and Technical Indicators for Financial Market Prediction</h1>
-<h3 align="center">Third Course Work. Predictioning based on Tweets.</h3>
+<h3 align="center">Third Course Work. GAN price estimation based on Tweets.</h3>
 <!-- <hr width="50%" align="center"> -->
 <h6 align="center">Made by: Ilya Suchkov</h6>
 <h6 align="center">Supervised by: Andrey Chankin</h6>
